@@ -1,22 +1,16 @@
 # Table of contents
 
 * [Ontario Service Animal Access Guide](README.md)
-
----
-
 * [1. Legal Info for All](1-Legal-Info-for-All/README.md)
   * [Access Rights Myths](1-Legal-Info-for-All/1.1_Access_Rights_Myths.md)
   * [What is a Service Animal?](1-Legal-Info-for-All/1.2_What_Is_a_Service_Animal.md)
   * [Service Animal Verification and Proof](1-Legal-Info-for-All/1.3_Service_Animal_Verification_and_Proof.md)
   * [Legal References](1-Legal-Info-for-All/1.4_Legal-References.md)
-
 * [2. Carry On Notice for User](2-Carry-On-Access-Notice-for-Users/README.md)
   * [Service Animal Access Notice](2-Carry-On-Access-Notice-for-Users/2.1_Carry-On_Service_Animal_Access_Notice.md)
-
 * [3. How to Obtain a Medical Letter](3-How-to-Obtain-Medical-Letter/README.md)
   * [Email Request](3-How-to-Obtain-Medical-Letter/3.1_Request_to_Health_Professional.md)
   * [Medical Letter Template](3-How-to-Obtain-Medical-Letter/3.2_Medical_Letter_Template.md)
-
 * [4. How to Complain](4-How-to-Complain/README.md)
   * [Email to management](4-How-to-Complain/4.1_Email_to_Management.md)
   * [Formal complaint letter](4-How-to-Complain/4.2_Formal_Letter_to_Management.md)
