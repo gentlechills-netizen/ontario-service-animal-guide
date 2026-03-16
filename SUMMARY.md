@@ -1,17 +1,23 @@
 # Table of contents
 
 * [Ontario Service Animal Access Guide](README.md)
-* [1. Legal Info for All](1.-legal-info-for-all/README.md)
-  * [\[Access Rights Myths\](1. Legal-Info-for-All/1.1\_Access\_Rights\_Myths.md)](1.-legal-info-for-all/access-rights-myths-1.-legal-info-for-all-1.1_access_rights_myths-md.md)
-  * [\[What is a Service Animal?\](1. Legal-Info-for-All/1.2\_What\_Is\_a\_Service\_Animal.md)](1.-legal-info-for-all/what-is-a-service-animal-1.-legal-info-for-all-1.2_what_is_a_service_animal-md.md)
-  * [\[Service Animal Verification and Proof\](1. Legal-Info-for-All/1.3\_Service\_Animal\_Verification\_and\_Proof.md)](1.-legal-info-for-all/service-animal-verification-and-proof-1.-legal-info-for-all-1.3_service_animal_verification_and_proo.md)
-  * [\[Legal References\](1. Legal-Info-for-All/1.4\_Legal-References.md)](1.-legal-info-for-all/legal-references-1.-legal-info-for-all-1.4_legal-references-md.md)
-* [2. Carry On Notice for User](2.-carry-on-notice-for-user/README.md)
-  * [\[Service Animal Access Notice\](2. Carry-On-Access-Notice-for-Users/2.1\_Carry-On\_Service\_Animal\_Access\_Notice.md)](2.-carry-on-notice-for-user/service-animal-access-notice-2.-carry-on-access-notice-for-users-2.1_carry-on_service_animal_access_.md)
-* [3. How to Obtain a Medical Letter](3.-how-to-obtain-a-medical-letter/README.md)
-  * [\[Email Request\](3. How-to-Obtain-Medical-Letter/3.1\_Request\_to\_Health\_Professional.md)](3.-how-to-obtain-a-medical-letter/email-request-3.-how-to-obtain-medical-letter-3.1_request_to_health_professional-md.md)
-  * [\[Medical Letter Template\](3. How-to-Obtain-Medical-Letter/3.2\_Medical\_Letter\_Template.md)](3.-how-to-obtain-a-medical-letter/medical-letter-template-3.-how-to-obtain-medical-letter-3.2_medical_letter_template-md.md)
-* [4. How to Complain](4.-how-to-complain/README.md)
-  * [\[Email message to management\](4. How-to-Complain/4.1\_Email\_to\_Management.md)](4.-how-to-complain/email-message-to-management-4.-how-to-complain-4.1_email_to_management-md.md)
-  * [\[Formal complaint letter\](4. How-to-Complain/4.2\_Formal\_Letter\_to\_Management.md)](4.-how-to-complain/formal-complaint-letter-4.-how-to-complain-4.2_formal_letter_to_management-md.md)
-  * [\[Real-life case example\](4. How-to-Complain/4.3\_Real\_Case\_Example\_and\_Consequences.md)](4.-how-to-complain/real-life-case-example-4.-how-to-complain-4.3_real_case_example_and_consequences-md.md)
+
+---
+
+* [1. Legal Info for All](1-Legal-Info-for-All/README.md)
+  * [Access Rights Myths](1-Legal-Info-for-All/1.1_Access_Rights_Myths.md)
+  * [What is a Service Animal?](1-Legal-Info-for-All/1.2_What_Is_a_Service_Animal.md)
+  * [Service Animal Verification and Proof](1-Legal-Info-for-All/1.3_Service_Animal_Verification_and_Proof.md)
+  * [Legal References](1-Legal-Info-for-All/1.4_Legal-References.md)
+
+* [2. Carry On Notice for User](2-Carry-On-Access-Notice-for-Users/README.md)
+  * [Service Animal Access Notice](2-Carry-On-Access-Notice-for-Users/2.1_Carry-On_Service_Animal_Access_Notice.md)
+
+* [3. How to Obtain a Medical Letter](3-How-to-Obtain-Medical-Letter/README.md)
+  * [Email Request](3-How-to-Obtain-Medical-Letter/3.1_Request_to_Health_Professional.md)
+  * [Medical Letter Template](3-How-to-Obtain-Medical-Letter/3.2_Medical_Letter_Template.md)
+
+* [4. How to Complain](4-How-to-Complain/README.md)
+  * [Email to management](4-How-to-Complain/4.1_Email_to_Management.md)
+  * [Formal complaint letter](4-How-to-Complain/4.2_Formal_Letter_to_Management.md)
+  * [Real-life case example](4-How-to-Complain/4.3_Real_Case_Example_and_Consequences.md)
