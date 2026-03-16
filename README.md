@@ -1,20 +1,17 @@
 # Ontario Service Animal Access Guide
 
-## Objective:
-This Wiki/Website advocates for the rights of **Service Animal Users** in Ontario. 
-It clarifies the rights and obligations of Service Animal Users, as well as those of businesses (security guards, store managers, other gatekeepers of any public area), and other organisations. It is meant to be clear, concise and properly referenced with legal and regulatory information. It was born from a real-world access denial incident and is meant to helping other Service Animal Users to overcome barriers and objections through education and awareness.
+Welcome to the **Ontario Service Animal Access Guide**, a centralized resource dedicated to clarifying the legal rights and obligations surrounding service animals in Ontario.
 
-## Legal Info for All - For Business Owners and Service Animal Users
-*What is a Service Animal? Does the handicap needs to be visible? Does the animal/dog needs to be certified?
-*What is a public space? Do our internal policies superseed the Law? What about a public space where food is served or sold? What is the exception for a food preparation room? 
-*How to verify if a dog or other animal is a Service Animal? What is the medical letter? The certification myth. Right to privacy. Visual identification.
+## Mission
+This portal provides Service Animal Users, business owners, and the general public with direct access to Ontario’s accessibility laws. By simplifying complex regulations, we aim to eliminate barriers and ensure full community integration for individuals with disabilities.
 
-## Carry-On Access Notice - For Service Animals Users 
-*A concise guide to AODA Regulation 165/16 and HRC to carry with you.
+## How to Use This Guide
+* **Quick Legal Reference:** Visit [Section 1](./1. Legal-Info-for-All/README.md) for a breakdown of the AODA and Human Rights Code.
+* **On-Site Disputes:** Use [Section 2](./2. Carry-On-Access-Notice-for-Users/README.md) to display an immediate legal notice on your mobile device.
+* **Documentation:** Access templates for medical letters and formal complaints in [Sections 3](./3. How-to-Obtain-Medical-Letter/README.md) and [4](./4. How-to-Complain/README.md).
 
-## How to obtain a Service Animal Medical Letter
-*Sample request to your nurse or doctor; Sample Medical Letter for your nurse or doctor.
+## Legal Authority
+The information provided here is based on the **Accessibility for Ontarians with Disabilities Act (AODA)** and the **Ontario Human Rights Code**. These statutes represent the law in Ontario and take precedence over private establishment policies.
 
-## How to complain
-*Email message to management and formal complaint letter
-*A real-life example and how to overcome barriers
+---
+*Disclaimer: This guide is for informational purposes and does not constitute legal advice. Always consult the official [e-Laws Ontario](https://www.ontario.ca/laws) website for the most current legislative text.*
